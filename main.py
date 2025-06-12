@@ -56,9 +56,9 @@ def recive(reciver,sender):
 
 people('mohit',14,0)
 people('riya',14,1)
-# profile('mohit','age')
-# profile('mohit','number')
-# profile('mohit')
+profile('mohit','age')
+profile('mohit','number')
+profile('mohit')
 # print(users)
 send('mohit','riya','good')
 # print(sent)
